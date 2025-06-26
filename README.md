@@ -1,61 +1,49 @@
-# 💰 Budget Tracker (FCC)
+# Scientific Programming with Python – FreeCodeCamp Projects
 
-This is a Python project built as part of the **FreeCodeCamp Scientific Computing with Python Certification**. It demonstrates how to create a simple budgeting app using object-oriented programming and includes a text-based spending chart.
+This repository contains my solutions to the **Scientific Computing with Python** certification projects from [freeCodeCamp](https://www.freecodecamp.org/). Each project showcases Python programming fundamentals, focusing on computation, data handling, and clean code practices.
 
----
+##  Certification Overview
 
-## 📌 Project Overview
+The **Scientific Computing with Python** certification covers:
 
-`budget_tracker(fcc)` contains:
+- Python basics
+- Functions and control flow
+- Data structures (lists, dicts, tuples)
+- String formatting
+- File operations
+- Testing and debugging
 
-- A `Category` class to manage deposits, withdrawals, transfers, and balances
-- A `create_spend_chart()` function that generates a text-based bar chart showing the percentage spent per category
-- Sample usage and test cases included directly in the notebook/code
+These concepts are applied through hands-on mini-projects.
 
----
+##  Completed Projects
 
-## 🧠 Features
+| No. | Project Name            | File                     | Description |
+|-----|--------------------------|--------------------------|-------------|
+| 1.  | Arithmetic Formatter     | `arithmetic_formatter(proj_1).py` | Formats a list of arithmetic problems vertically and optionally displays the result. |
+| 2.  | Time Calculator          | `time_calculator(proj_2).py`     | Adds a duration to a start time and returns the new time and day of the week. |
+| 3.  | Budget App               | `budget_tracker_proj3.py`              | Simulates budgeting and creates a spending chart using . |
 
-- Deposit and withdraw money per category
-- Transfer funds between categories
-- Display a well-formatted ledger using `__str__`
-- Generate a vertical spend chart using only text
+## 🛠 Upcoming Projects
 
----
+These projects are part of the certification and will be added soon:
 
-## 🧪 How to Run
+- [ ] Polygon Area Calculator
+- [ ] Probability Calculator
 
-Since this project was developed in **Google Colab**, you can:
+Stay tuned for updates!
 
-1. Open the notebook directly in Google Colab
-2. Run all cells to test the functionality and see the output
-3. Modify the test cases as needed to try other categories or amounts
-
----
-
----
-
-
-## 📂 File Structure
-
-budget_tracker_fcc/
-│
-├── budget_tracker(fcc).ipynb        # Contains Category class and create_spend_chart()
-├── README.md                        # This file
-
-
----
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3.10+
-- Google Colab (for development & testing)
 
 ---
 
 ---
+## Acknowledgements
+- Based on freeCodeCamp's Scientific Computing with Python Certification
+- https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
-## 🙋 Author
+##  Author
 
 **Krishna Sharma** – [@krishna2426](https://github.com/krishna2426)
 
